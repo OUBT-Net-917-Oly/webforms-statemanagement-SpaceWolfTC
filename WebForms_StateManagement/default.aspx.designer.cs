@@ -40,6 +40,15 @@ namespace WebForms_StateManagement {
         protected global::System.Web.UI.WebControls.Button btnAddCookieMessage;
         
         /// <summary>
+        /// lblCookieResponse control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label lblCookieResponse;
+        
+        /// <summary>
         /// btnGetCookie control.
         /// </summary>
         /// <remarks>
@@ -47,6 +56,15 @@ namespace WebForms_StateManagement {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Button btnGetCookie;
+        
+        /// <summary>
+        /// lblCookieMessage control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label lblCookieMessage;
         
         /// <summary>
         /// btnExpireCookie control.
